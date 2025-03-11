@@ -1,6 +1,6 @@
 My Data Analytics Journey 🚀
 Bu repo, veri analizi öğrenme sürecimi belgelemek için oluşturuldu.
-📌 SQL sorguları
+📌 MYSQL sorguları
 📌 Python veri analizi kodları
 📌 Günlük ilerlemeler
 
