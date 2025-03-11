@@ -1,0 +1,13 @@
+# 📊 MySQL Çalışmalarım – Day 1  
+
+Bu dosyada, MySQL ile yaptığım temel sorgular ve pratikler yer almaktadır.  
+
+## 📌 Bugün Öğrendiklerim  
+✅ **SELECT, DISTINCT, GROUP BY, ORDER BY**  
+✅ **WHERE, AND, OR, NOT Operatörleri**  
+✅ **LIKE ile metin arama & joker karakterler (% ve _)**  
+✅ **HAVING, LIMIT ve ALIAS kullanımı**  
+
+📂 **SQL Dosyam:** [DAY1.sql](./DAY1.sql)  
+
+💡 **Kodları GitHub’a yükleyerek her gün gelişimimi takip ediyorum!** 🚀
